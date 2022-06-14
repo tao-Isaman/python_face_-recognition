@@ -1,0 +1,5 @@
+face_recognition
+# dlib==19.23.0
+scikit-learn
+docopt
+dlib
